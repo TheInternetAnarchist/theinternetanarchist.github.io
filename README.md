@@ -1,1 +1,1 @@
-# MrBeastRepo
+# MrBeast Leaks Repo
